@@ -1,0 +1,19 @@
+{
+  "name": "SASqliter",
+  "version": "0.1.0",
+  "description": "Use SQLite files with maps in SAS.Planet like native ZMP maps.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Starik <4analit@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "guid": "0.0.12",
+    "rimraf": "^2.5.2",
+    "sqlite3": "^3.1.4",
+    "translit": "0.0.1",
+    "translit-russian": "0.0.2"
+  }
+}
